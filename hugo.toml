@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
+baseURL = "https://tartu2025.netlify.app/"
+title   = "Tartu KOV 2025"
+languageCode = "et-ee"
